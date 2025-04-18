@@ -17,5 +17,5 @@
 
 - `/` – strona domowa
 - `/mojastrona` – strona informacyjna
-- `/hello?name=TwojeImie`
+- `/hello?name=TwojeImie` - strona z przywitaniem użytkownika
 - `/api/v1.0/predict?num1=3&num2=4` – zwraca predykcję
